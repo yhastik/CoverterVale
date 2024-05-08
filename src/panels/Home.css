@@ -1,0 +1,45 @@
+.btn{
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+.Bodys{
+    margin-top: 10%;
+}
+.he{
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.Header{
+    display: flex;
+    justify-content: center;
+}
+.Header p{
+    width: 900;
+    font-size: 20px;
+}
+.Inp{
+    height: 50px;
+    border: none;
+    box-shadow: 1px 1px 15px 5px #505050;
+    margin: 0 auto;
+}
+
+.Head{
+    margin: 0 auto;
+    width: 500px;
+    box-shadow: 1px 1px 15px 10px #000;
+
+    background-color: rgba(1, 1, 1, 0);
+    border-radius: 15px;    
+}
+
+.Div{
+    width: 100%;
+    max-width: 450px;
+    background-color: #343434;
+    border-radius: 10px;
+}
